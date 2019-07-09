@@ -1,0 +1,24 @@
+{
+  "preview": [
+    {
+      "views": [
+        {
+          "id": "codesandbox.tests"
+        },
+        {
+          "id": "codesandbox.browser"
+        },
+        {
+          "id": "codesandbox.console"
+        }
+      ]
+    },
+    {
+      "views": [
+        {
+          "id": "codesandbox.problems"
+        }
+      ]
+    }
+  ]
+}
